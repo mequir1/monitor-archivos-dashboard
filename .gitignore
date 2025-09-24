@@ -1,0 +1,14 @@
+# Java
+target/
+*.class
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Logs
+*.log
+
+# Config
+.env
