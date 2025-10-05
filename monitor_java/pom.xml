@@ -32,7 +32,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>FilesMonitor</mainClass>
+              <mainClass>pmtMonitor</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>

@@ -9,6 +9,7 @@ venv/
 
 # Logs
 *.log
+*.txt
 
 # Config
 .env

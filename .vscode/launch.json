@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "dpfilePosMonitor",
+            "request": "launch",
+            "mainClass": "com.dpc.dpfilePosMonitor",
+            "projectName": "monitor_archivos_java"
+        },
+        {
+            "type": "java",
+            "name": "pmtMonitor",
+            "request": "launch",
+            "mainClass": "com.dpc.pmtMonitor",
+            "projectName": "monitor_archivos_java"
+        },
+        {
+            "type": "java",
+            "name": "FilesMonitor",
+            "request": "launch",
+            "mainClass": "com.dpc.FilesMonitor",
+            "projectName": "monitor_archivos_java"
+        },
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
